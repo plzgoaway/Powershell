@@ -1,3 +1,4 @@
+# Requires MS policy analyzer tool
 Import-Module ActiveDirectory
 $gpoTargetOU = "TargetOU"
 # Check if paths exists
